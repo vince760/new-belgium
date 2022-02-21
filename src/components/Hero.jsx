@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import { useSpring, animated } from "react-spring";
 import heroImage from "../images/hero.jpg";
 import cans from "../images/cans.png";
