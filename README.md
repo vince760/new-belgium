@@ -10,9 +10,6 @@ In the project directory, you can run:
 
 Installs all the necessary dependancies required to run the React Application. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
 ### `npm start`
 
 Runs the app in the development mode.\
